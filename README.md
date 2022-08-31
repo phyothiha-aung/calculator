@@ -1,2 +1,2 @@
 Calculator using react
-<a href="https://phyothiha-aung.github.io/calculator"> Demo Link </a>
+<a href="https://phyothiha-aung.github.io/calculator" target="_blank"> Demo Link </a>
